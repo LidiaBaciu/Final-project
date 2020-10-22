@@ -1,6 +1,4 @@
 # Final-project
-final form of the 11th project 
-
 Text editor library. Write a library with functions that could be useful for a text
 
 editor. The library should at least contain the following functions:
